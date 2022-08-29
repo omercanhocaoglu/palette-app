@@ -1,4 +1,4 @@
-# Palette-app
+# Palette-App
 
 ## Bu repo `React` ile yapılmış bir renk paleti uygulamasını barındırmaktadır. 
 
